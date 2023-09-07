@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DataBaseTest.dir/src/DataBase.cpp.o CMakeFiles/DataBaseTest.dir/src/DataBaseTest.cpp.o -o DataBaseTest  -lmysqlclient -lpthread 

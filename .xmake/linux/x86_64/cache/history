@@ -1,0 +1,8 @@
+{
+    cmdlines = {
+        "xmake run",
+        "xmake update",
+        "xmake run",
+        "xmake run --root"
+    }
+}
